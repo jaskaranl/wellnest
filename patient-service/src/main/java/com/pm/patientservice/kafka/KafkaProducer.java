@@ -31,4 +31,5 @@ public class KafkaProducer {
       log.error("Error sending PatientCreated event: {}", event);
     }
   }
+
 }
